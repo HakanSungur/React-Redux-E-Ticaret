@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^12.8.3",
     "alertifyjs": "^1.13.1",
     "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.3",
